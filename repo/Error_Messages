@@ -1,0 +1,99 @@
+"Cake\Routing\Exception\" -site:github.com -site:stackoverflow.com -site:cakephp.org"
+inurl:".php?id=" "You have an error in your SQL syntax"
+intitle:"CGIWrap Error"
+"--- WebView Livescope Http Server Error ---" -git
+"Below is a rendering of the page up to the first error." ext:xml
+inurl:index of driver.php?id=
+intext:"expects parameter 1 to be resource, boolean given" filetype:php
+intitle:"Struts Problem Report" intext:"development mode is enabled."
+inurl:"id=" & intext:"MySQL Error: 1064" & "Session halted."
+intitle:"DSM Terminator [ ABORT ]" | inurl:"./com.sap.portal.dsm.Terminator"
+inurl:/siteminderagent/ | app:"Error 404: java.io.FileNotFoundException: SRVE0190E: File not found: /siteminderagent/"
+inurl:/smpwservices.fcc | "/lm_private/CkeSetter.aspx"
+inurl:/console-selfservice/common/scripts/calendar/ipopeng.htm
+inurl:/nesp/app
+inurl:/SAML2/SOAP/ | inurl:/SAML2/POST
+inurl:/uniquesig0/ or inurl:/uniquesig0/InternalSite/
+inurl:index.php?id= intext:"mysql_fetch_array"
+intitle:Content Server Error IdcService=DOC_INFO
+intitle:"Whoops! There was an error."
+intitle:Error-javax.el.ELException+error+xhtml
+intitle:Error Page pageWrapper.jsp?
+intext:"Unexpected Problem Occurred!" ext:aspx
+"[function.getimagesize]: failed to open stream: No such file or directory in"
+intext:"Access denied for" intitle:"Shopping cart"
+inurl:advsearch.php?module= & intext:sql syntax
+intext:"Fatal error: Class 'Red_Action' not found in"
+"CHARACTER_SETS" "COLLATION_CHARACTER_SET_APPLICABILITY"
+inurl:"*.php?*=*.php" intext:"Warning: include" -inurl:.html -site:"php.net" -site:"stackoverflow.com" -inurl:"*forums*"
+inurl:"index.php?m=content+c=rss+catid=10"
+"plugins/wp-db-backup/wp-db-backup.php"
+allintext:"fs-admin.php"
+intitle:"Apache Tomcat" "Error Report"
+"Unable to jump to row" "on MySQL result index" "on line"
+"Warning: Bad arguments to (join|implode) () in" "on line" -help -forum
+"Warning:" "failed to open stream: HTTP request failed" "on line"
+"Warning: mysql_connect(): Access denied for user: '*@*" "on line" -help -forum
+"Warning: Division by zero in" "on line" -forum
+filetype:asp + "[ODBC SQL"
+"Warning:" "SAFE MODE Restriction in effect." "The script whose uid is" "is not allowed to access owned by uid 0 in" "on line"
+"Warning: Supplied argument is not a valid File-Handle resource in"
+"There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser."
+intitle:"Default PLESK Page"
+"Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php
+&quot;SQL Server Driver][SQL Server]Line 1: Incorrect syntax near&quot;
+Netscape Application Server Error page
+intext:"Error Message : Error loading required libraries."
+"Warning: mysql_query()" "invalid query"
+intitle:Configuration.File inurl:softcart.exe
+"The script whose uid is " "is not allowed to access"
+snitz! forums db path error
+filetype:log "PHP Parse error" | "PHP Warning" | "PHP Error"
+"ASP.NET_SessionId" "data source="
+"ORA-12541: TNS:no listener" intitle:"error occurred"
+filetype:php inurl:"logging.php" "Discuz" error
+"Internal Server Error" "server at"
+PHP application warnings failing "include_path"
+intext:"Warning: Failed opening" "on line" "include_path"
+ht://Dig htsearch error
+intitle:"Error Occurred While Processing Request" +WHERE (SELECT|INSERT) filetype:cfm
+intitle:"Error using Hypernews" "Server Software"
+"Invision Power Board Database Error"
+"error found handling the request" cocoon filetype:xml
+intitle:"Execution of this script not permitted"
+intitle:"Error Occurred" "The error occurred in" filetype:cfm
+warning "error on line" php sablotron
+"Fatal error: Call to undefined function" -reply -the -next
+filetype:asp "Custom Error Message" Category Source
+"Can't connect to local" intitle:warning
+intitle:"Under construction" "does not currently have"
+"access denied for user" "using password"
+"Warning: Cannot modify header information - headers already sent"
+"Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"
+An unexpected token "END-OF-STATEMENT" was found
+"detected an internal error [IBM][CLI Driver][DB2/6000]"
+"A syntax error has occurred" filetype:ihtml
+"An illegal character has been found in the statement" -"previous message"
+"Syntax error in query expression " -the
+supplied argument is not a valid PostgreSQL result
+"PostgreSQL query failed: ERROR: parser: parse error"
+"Incorrect syntax near"
+"Incorrect syntax near"
+"Unclosed quotation mark before the character string"
+"ORA-00933: SQL command not properly ended"
+ORA-00921: unexpected end of SQL command
+ORA-00936: missing expression
+"Supplied argument is not a valid MySQL result resource"
+sQL syntax error
+mysql error with query
+Internal Server Error
+IIS web server error messages
+Windows 2000 web server error messages
+IIS 4.0 error messages
+sitebuilderpictures
+sitebuilderfiles
+sitebuildercontent
+ORA-00921: unexpected end of SQL command
+"Chatologica MetaSearch" "stack tracking"
+MYSQL error message: supplied argument....
+Coldfusion Error Pages
